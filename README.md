@@ -1,4 +1,5 @@
-# PromoterRNN
+# NOTE!!! THIS PROJECT IS PART OF THE AUTHOR'S SUBMISSION FOR PEKING UNIVERSITY'S 2025 IGEM ENTRANCE EXAM
+# PromoterGRU
 
 A deep learning project using a GRU (Gated Recurrent Unit) model to predict whether a 70nt DNA sequence is a promoter.
 
