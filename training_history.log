@@ -1,0 +1,386 @@
+Using device: cuda
+Data prepared!
+Train started!
+Epoch 1/200
+Train Loss: 0.5973
+Val Loss: 0.5640
+Val Accuracy: 0.7168
+Val Precision: 0.8076
+Val Recall: 0.5691
+Val F1: 0.6677
+Val AUC: 0.7821
+Saved best model!
+Epoch 2/200
+Train Loss: 0.5560
+Val Loss: 0.5453
+Val Accuracy: 0.7239
+Val Precision: 0.8430
+Val Recall: 0.5502
+Val F1: 0.6658
+Val AUC: 0.8051
+Saved best model!
+Epoch 3/200
+Train Loss: 0.5374
+Val Loss: 0.4897
+Val Accuracy: 0.7627
+Val Precision: 0.7972
+Val Recall: 0.7047
+Val F1: 0.7481
+Val AUC: 0.8471
+Saved best model!
+Epoch 4/200
+Train Loss: 0.4982
+Val Loss: 0.4652
+Val Accuracy: 0.7846
+Val Precision: 0.7862
+Val Recall: 0.7818
+Val F1: 0.7840
+Val AUC: 0.8685
+Saved best model!
+Epoch 5/200
+Train Loss: 0.4747
+Val Loss: 0.4473
+Val Accuracy: 0.7929
+Val Precision: 0.8144
+Val Recall: 0.7588
+Val F1: 0.7856
+Val AUC: 0.8795
+Saved best model!
+Epoch 6/200
+Train Loss: 0.4616
+Val Loss: 0.4425
+Val Accuracy: 0.7998
+Val Precision: 0.8138
+Val Recall: 0.7775
+Val F1: 0.7952
+Val AUC: 0.8829
+Saved best model!
+Epoch 7/200
+Train Loss: 0.4503
+Val Loss: 0.4388
+Val Accuracy: 0.7926
+Val Precision: 0.7701
+Val Recall: 0.8342
+Val F1: 0.8009
+Val AUC: 0.8823
+Epoch 8/200
+Train Loss: 0.4436
+Val Loss: 0.4358
+Val Accuracy: 0.7963
+Val Precision: 0.8026
+Val Recall: 0.7858
+Val F1: 0.7941
+Val AUC: 0.8821
+Epoch 9/200
+Train Loss: 0.4427
+Val Loss: 0.4300
+Val Accuracy: 0.7973
+Val Precision: 0.8310
+Val Recall: 0.7464
+Val F1: 0.7864
+Val AUC: 0.8875
+Saved best model!
+Epoch 10/200
+Train Loss: 0.4395
+Val Loss: 0.4311
+Val Accuracy: 0.7966
+Val Precision: 0.8083
+Val Recall: 0.7777
+Val F1: 0.7927
+Val AUC: 0.8840
+Epoch 11/200
+Train Loss: 0.4320
+Val Loss: 0.4217
+Val Accuracy: 0.8014
+Val Precision: 0.7864
+Val Recall: 0.8275
+Val F1: 0.8064
+Val AUC: 0.8892
+Saved best model!
+Epoch 12/200
+Train Loss: 0.4277
+Val Loss: 0.4314
+Val Accuracy: 0.8006
+Val Precision: 0.8350
+Val Recall: 0.7491
+Val F1: 0.7897
+Val AUC: 0.8903
+Saved best model!
+Epoch 13/200
+Train Loss: 0.4238
+Val Loss: 0.4163
+Val Accuracy: 0.8036
+Val Precision: 0.8163
+Val Recall: 0.7836
+Val F1: 0.7996
+Val AUC: 0.8907
+Saved best model!
+Epoch 14/200
+Train Loss: 0.4217
+Val Loss: 0.4275
+Val Accuracy: 0.8019
+Val Precision: 0.8354
+Val Recall: 0.7520
+Val F1: 0.7915
+Val AUC: 0.8905
+Epoch 15/200
+Train Loss: 0.4190
+Val Loss: 0.4172
+Val Accuracy: 0.8063
+Val Precision: 0.8004
+Val Recall: 0.8162
+Val F1: 0.8082
+Val AUC: 0.8904
+Epoch 16/200
+Train Loss: 0.4168
+Val Loss: 0.4258
+Val Accuracy: 0.8020
+Val Precision: 0.7981
+Val Recall: 0.8086
+Val F1: 0.8033
+Val AUC: 0.8857
+Epoch 17/200
+Train Loss: 0.4162
+Val Loss: 0.4166
+Val Accuracy: 0.8041
+Val Precision: 0.8289
+Val Recall: 0.7662
+Val F1: 0.7963
+Val AUC: 0.8929
+Saved best model!
+Epoch 18/200
+Train Loss: 0.4074
+Val Loss: 0.4170
+Val Accuracy: 0.8078
+Val Precision: 0.7896
+Val Recall: 0.8392
+Val F1: 0.8136
+Val AUC: 0.8931
+Saved best model!
+Epoch 19/200
+Train Loss: 0.4089
+Val Loss: 0.4127
+Val Accuracy: 0.8095
+Val Precision: 0.8133
+Val Recall: 0.8034
+Val F1: 0.8083
+Val AUC: 0.8941
+Saved best model!
+Epoch 20/200
+Train Loss: 0.4020
+Val Loss: 0.4166
+Val Accuracy: 0.8043
+Val Precision: 0.8364
+Val Recall: 0.7565
+Val F1: 0.7945
+Val AUC: 0.8939
+Epoch 21/200
+Train Loss: 0.4014
+Val Loss: 0.4110
+Val Accuracy: 0.8086
+Val Precision: 0.8012
+Val Recall: 0.8207
+Val F1: 0.8109
+Val AUC: 0.8935
+Epoch 22/200
+Train Loss: 0.3952
+Val Loss: 0.4173
+Val Accuracy: 0.8074
+Val Precision: 0.8144
+Val Recall: 0.7964
+Val F1: 0.8053
+Val AUC: 0.8924
+Epoch 23/200
+Train Loss: 0.3916
+Val Loss: 0.4094
+Val Accuracy: 0.8145
+Val Precision: 0.8039
+Val Recall: 0.8320
+Val F1: 0.8177
+Val AUC: 0.8968
+Saved best model!
+Epoch 24/200
+Train Loss: 0.3898
+Val Loss: 0.4138
+Val Accuracy: 0.8107
+Val Precision: 0.8168
+Val Recall: 0.8011
+Val F1: 0.8089
+Val AUC: 0.8941
+Epoch 25/200
+Train Loss: 0.3811
+Val Loss: 0.4116
+Val Accuracy: 0.8122
+Val Precision: 0.7988
+Val Recall: 0.8345
+Val F1: 0.8163
+Val AUC: 0.8955
+Epoch 26/200
+Train Loss: 0.3809
+Val Loss: 0.4093
+Val Accuracy: 0.8132
+Val Precision: 0.7988
+Val Recall: 0.8372
+Val F1: 0.8176
+Val AUC: 0.8961
+Epoch 27/200
+Train Loss: 0.3752
+Val Loss: 0.4141
+Val Accuracy: 0.8152
+Val Precision: 0.8023
+Val Recall: 0.8365
+Val F1: 0.8191
+Val AUC: 0.8976
+Saved best model!
+Epoch 28/200
+Train Loss: 0.3719
+Val Loss: 0.4134
+Val Accuracy: 0.8134
+Val Precision: 0.8048
+Val Recall: 0.8275
+Val F1: 0.8160
+Val AUC: 0.8953
+Epoch 29/200
+Train Loss: 0.3671
+Val Loss: 0.4082
+Val Accuracy: 0.8136
+Val Precision: 0.8197
+Val Recall: 0.8041
+Val F1: 0.8118
+Val AUC: 0.8972
+Epoch 30/200
+Train Loss: 0.3589
+Val Loss: 0.4135
+Val Accuracy: 0.8177
+Val Precision: 0.8189
+Val Recall: 0.8158
+Val F1: 0.8173
+Val AUC: 0.8981
+Saved best model!
+Epoch 31/200
+Train Loss: 0.3537
+Val Loss: 0.4164
+Val Accuracy: 0.8106
+Val Precision: 0.8372
+Val Recall: 0.7712
+Val F1: 0.8028
+Val AUC: 0.8955
+Epoch 32/200
+Train Loss: 0.3491
+Val Loss: 0.4241
+Val Accuracy: 0.8082
+Val Precision: 0.8023
+Val Recall: 0.8180
+Val F1: 0.8101
+Val AUC: 0.8933
+Epoch 33/200
+Train Loss: 0.3405
+Val Loss: 0.4182
+Val Accuracy: 0.8115
+Val Precision: 0.7988
+Val Recall: 0.8327
+Val F1: 0.8154
+Val AUC: 0.8947
+Epoch 34/200
+Train Loss: 0.3277
+Val Loss: 0.4382
+Val Accuracy: 0.8132
+Val Precision: 0.8031
+Val Recall: 0.8297
+Val F1: 0.8162
+Val AUC: 0.8940
+Epoch 35/200
+Train Loss: 0.3271
+Val Loss: 0.4364
+Val Accuracy: 0.8100
+Val Precision: 0.8183
+Val Recall: 0.7971
+Val F1: 0.8075
+Val AUC: 0.8931
+Epoch 36/200
+Train Loss: 0.3163
+Val Loss: 0.4543
+Val Accuracy: 0.8131
+Val Precision: 0.7936
+Val Recall: 0.8462
+Val F1: 0.8191
+Val AUC: 0.8939
+Epoch 37/200
+Train Loss: 0.3103
+Val Loss: 0.4552
+Val Accuracy: 0.8108
+Val Precision: 0.7997
+Val Recall: 0.8293
+Val F1: 0.8142
+Val AUC: 0.8921
+Epoch 38/200
+Train Loss: 0.2967
+Val Loss: 0.4665
+Val Accuracy: 0.8084
+Val Precision: 0.7952
+Val Recall: 0.8309
+Val F1: 0.8126
+Val AUC: 0.8906
+Epoch 39/200
+Train Loss: 0.2893
+Val Loss: 0.4683
+Val Accuracy: 0.8098
+Val Precision: 0.8008
+Val Recall: 0.8248
+Val F1: 0.8126
+Val AUC: 0.8904
+Epoch 40/200
+Train Loss: 0.2819
+Val Loss: 0.4753
+Val Accuracy: 0.8093
+Val Precision: 0.8019
+Val Recall: 0.8216
+Val F1: 0.8117
+Val AUC: 0.8891
+Epoch 41/200
+Train Loss: 0.2747
+Val Loss: 0.4845
+Val Accuracy: 0.8053
+Val Precision: 0.8026
+Val Recall: 0.8097
+Val F1: 0.8061
+Val AUC: 0.8867
+Epoch 42/200
+Train Loss: 0.2616
+Val Loss: 0.4941
+Val Accuracy: 0.8061
+Val Precision: 0.8011
+Val Recall: 0.8144
+Val F1: 0.8077
+Val AUC: 0.8839
+Epoch 43/200
+Train Loss: 0.2539
+Val Loss: 0.5079
+Val Accuracy: 0.8027
+Val Precision: 0.8123
+Val Recall: 0.7874
+Val F1: 0.7996
+Val AUC: 0.8861
+Epoch 44/200
+Train Loss: 0.2470
+Val Loss: 0.5132
+Val Accuracy: 0.8057
+Val Precision: 0.8057
+Val Recall: 0.8059
+Val F1: 0.8058
+Val AUC: 0.8841
+Epoch 45/200
+Train Loss: 0.2366
+Val Loss: 0.5264
+Val Accuracy: 0.8029
+Val Precision: 0.8014
+Early stopping at epoch 45
+Training complete in 869.82s. Best validation AUC: 0.8981 at epoch 30
+
+Test Set Evaluation:
+Test Loss: 0.4073
+Test Accuracy: 0.8166
+Test Precision: 0.8176
+Test Recall: 0.8149
+Test F1: 0.8162
+Test AUC: 0.9010
