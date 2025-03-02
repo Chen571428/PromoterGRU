@@ -6,3 +6,5 @@ report.aux
 another.*
 __*
 *vscode
+report.fls
+report.fdb_latexmk
