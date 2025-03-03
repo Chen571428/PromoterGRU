@@ -8,3 +8,11 @@ __*
 *vscode
 report.fls
 report.fdb_latexmk
+fig.aux
+fig.fdb_latexmk
+fig.fls
+fig.log
+fig.pdf
+fig.synctex.gz
+fig.tex
+.gitignore
